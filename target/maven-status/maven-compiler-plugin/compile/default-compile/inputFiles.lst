@@ -1,0 +1,6 @@
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/config/SpringOpenidApplication.java
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/config/GoogleOpenIdConnectConfig.java
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/config/SecurityConfig.java
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/config/HomeController.java
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/security/OpenIdConnectFilter.java
+/home/zadmin/workspace/tutorials-1-master/spring-security-openid/src/main/java/org/baeldung/security/OpenIdConnectUserDetails.java

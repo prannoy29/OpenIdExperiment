@@ -1,0 +1,8 @@
+org/baeldung/security/OpenIdConnectFilter$1.class
+org/baeldung/config/SecurityConfig.class
+org/baeldung/security/OpenIdConnectFilter.class
+org/baeldung/config/HomeController.class
+org/baeldung/security/OpenIdConnectUserDetails.class
+org/baeldung/config/SpringOpenidApplication.class
+org/baeldung/config/GoogleOpenIdConnectConfig.class
+org/baeldung/security/OpenIdConnectFilter$NoopAuthenticationManager.class
